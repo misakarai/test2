@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background: #fdf;
+  font: 30px sans-serif;
+    width:320px;
+    height:480:
+}
+
+#myPos{
+    position : absolute;
+    left : 0px;
+    top : 32px;
+    width : 320px;
+    height : 480px;
+}
